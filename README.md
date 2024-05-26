@@ -28,9 +28,9 @@ Uso em funções: tuplas são comumente usadas como valores de retorno.
 ## Instruções de configuração e execução:
 
 ### Certifique-se de ter o Python 3.7 ou superior instalado.
-### Crie um ambiente virtual venv.
+## Crie um ambiente virtual venv.
 
-## Comando para criar o ambiente Virtual no Windows, terminal usado powershell.
+### Comando para criar o ambiente Virtual no Windows, terminal usado powershell.
 
 ~~~
    $   python -m venv venv  
