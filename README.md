@@ -2,7 +2,6 @@
 ## Diferença entre uma lista e uma tupla em Python
 
 ## Aqui está uma explicação do código:
---- 
 
 ## Listas:
 
@@ -21,13 +20,13 @@ Exemplo de acesso aos elementos da tupla.
 ## Diferenças práticas entre listas e tuplas:
 
 ### Mutabilidade: listas são mutáveis, tuplas são imutáveis
-Uso: listas para estruturas de dados flexíveis, tuplas para estruturas estáticas
+
+Uso:listas para estruturas de dados flexíveis, tuplas para estruturas estáticas
 Desempenho: tuplas são, em geral, mais rápidas que listas
 Uso em funções: tuplas são comumente usadas como valores de retorno.
----
 
 ## Instruções de configuração e execução:
---
+
 ### Certifique-se de ter o Python 3.7 ou superior instalado.
 ### Crie um ambiente virtual venv.
 
